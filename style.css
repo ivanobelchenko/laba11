@@ -199,7 +199,7 @@ nav ul li a:hover{
 textarea{
     height: 190px;
     }
-.contactform input[type=submit]{
+button{
     appearance: none;
     border: 0;
     background: none;
@@ -215,3 +215,6 @@ textarea{
     padding-left: 170px;
     padding-bottom: 60px;
     }
+#uxui{
+    position:relative
+}
